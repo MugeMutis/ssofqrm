@@ -1,0 +1,11 @@
+\contentsline {subsection}{ssofqrm-package}{2}{page.2}
+\contentsline {subsection}{air\_data}{2}{page.2}
+\contentsline {subsection}{chernozhukov\_fun}{3}{page.3}
+\contentsline {subsection}{dgp}{4}{page.4}
+\contentsline {subsection}{fqrm}{5}{page.5}
+\contentsline {subsection}{getPCA}{6}{page.6}
+\contentsline {subsection}{getPCA\_test}{6}{page.6}
+\contentsline {subsection}{kim\_fun}{7}{page.7}
+\contentsline {subsection}{norm\_wei}{7}{page.7}
+\contentsline {subsection}{predict\_fqrm}{8}{page.8}
+\contentsline {chapter}{Index}{9}{page.9}

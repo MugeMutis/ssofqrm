@@ -1,0 +1,26 @@
+Package: ssofqrm
+Title: Spatial Function-on-Function Quantile Regression Model
+Version: 1.0
+Authors@R: 
+    c(
+  person("Muge", "Mutis", email="muge.mutis@yildiz.edu.tr", role=c("aut", "cre", "cph"), comment = c(ORCID = "0000-0002-9801-4835")),
+	person("Ufuk", "Beyaztas", role="aut", comment = c(ORCID = "0000-0002-5208-4950")),
+	person("Filiz", "Karaman", role="aut", comment = c(ORCID = "0000-0002-8491-674X")),
+	person("Han Lin", "Shang", role="aut", comment = c(ORCID = "0000-0003-1769-6430"))
+	)
+Maintainer: Muge Mutis <muge.mutis@yildiz.edu.tr>
+Description: Functions for implementing methods for spatial scalar-on-function quantile regression model.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 3.5)
+Imports: fda, fda.usc, quantreg, expm
+LazyData: true
+LazyDataCompression: xz
+NeedsCompilation: no
+Packaged: 2025-03-22 20:13:03 UTC; dell
+Author: Muge Mutis [aut, cre, cph] (<https://orcid.org/0000-0002-9801-4835>),
+  Ufuk Beyaztas [aut] (<https://orcid.org/0000-0002-5208-4950>),
+  Filiz Karaman [aut] (<https://orcid.org/0000-0002-8491-674X>),
+  Han Lin Shang [aut] (<https://orcid.org/0000-0003-1769-6430>)
